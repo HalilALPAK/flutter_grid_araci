@@ -15,6 +15,8 @@ Bu proje, Flutter kullanarak etkileşimli bir grid (ızgara) tasarım aracıdır
 - **Seçimleri Temizleme:** Tüm gridi tek tıkla varsayılan durumuna geri döndürme.
 
 ## Ekran Görüntüleri
+<img width="1928" height="952" alt="Ek1" src="https://github.com/user-attachments/assets/dfc35011-0b1c-4908-bf70-a5ffc26a0947" />
+<img width="1905" height="938" alt="Ek2" src="https://github.com/user-attachments/assets/7f44a0bb-0732-4f78-b64a-297411e50028" />
 
 ## Kurulum
 
